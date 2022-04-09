@@ -2,13 +2,14 @@
 #
 # Get latest from https://github.com/github/gitignore/blob/master/Unity.gitignore
 #
-/[Ll]ibrary/
-/[Tt]emp/
-/[Oo]bj/
-/[Bb]uild/
-/[Bb]uilds/
-/[Ll]ogs/
-/[Mm]emoryCaptures/
+FatBird/[Ll]ibrary/
+FatBird/[Tt]emp/
+FatBird/[Oo]bj/
+FatBird/[Bb]uild/
+FatBird/[Bb]uilds/
+FatBird/[Ll]ogs/
+FatBird/[Mm]emoryCaptures/
+FatBird/Assets/Scripts/TestingFolder/
 
 # Asset meta data should only be ignored when the corresponding asset is also ignored
 !/[Aa]ssets/**/*.meta
